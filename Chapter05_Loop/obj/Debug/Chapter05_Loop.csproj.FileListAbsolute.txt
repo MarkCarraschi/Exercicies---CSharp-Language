@@ -1,7 +1,0 @@
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\bin\Debug\Chapter05_Loop.exe.config
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\bin\Debug\Chapter05_Loop.exe
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\bin\Debug\Chapter05_Loop.pdb
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\obj\Debug\Chapter05_Loop.csprojAssemblyReference.cache
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\obj\Debug\Chapter05_Loop.csproj.CoreCompileInputs.cache
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\obj\Debug\Chapter05_Loop.exe
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter05_Loop\obj\Debug\Chapter05_Loop.pdb

@@ -1,7 +1,0 @@
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\bin\Debug\Chapter04_Conditional.exe.config
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\bin\Debug\Chapter04_Conditional.exe
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\bin\Debug\Chapter04_Conditional.pdb
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\obj\Debug\Chapter04_Conditional.csprojAssemblyReference.cache
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\obj\Debug\Chapter04_Conditional.csproj.CoreCompileInputs.cache
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\obj\Debug\Chapter04_Conditional.exe
-C:\Users\marcus.carraschi\source\repos\POO_CSharp\Chapter04_Conditional\obj\Debug\Chapter04_Conditional.pdb
