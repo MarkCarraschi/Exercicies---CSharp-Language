@@ -6,7 +6,14 @@ namespace csharp_exercicies
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BasicSequence basicSequence = new BasicSequence();
+
+            /*basicSequence.ExercicieOne();
+            basicSequence.ExercicieTwo();
+            basicSequence.ExercicieThree();*/
+
+            //basicSequence.ExercicieFour();
+            basicSequence.ExercicieFive();
         }
     }
 }
