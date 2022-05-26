@@ -81,7 +81,65 @@ namespace csharp_exercicies
 
         public void ExercicieTen()
         {
+            Console.Write("Largura : ");
+            float width = float.Parse(Console.ReadLine());
+            Console.Write("Altura : ");
+            float height = float.Parse(Console.ReadLine());
 
+            Console.WriteLine($"Área : {width * height}");
+            Console.WriteLine($"Litros de tinta : {(width * height) * 2}");
+        }
+
+        public void ExercicieEleven()
+        {
+            Console.Write("A : ");
+            float a = float.Parse(Console.ReadLine());
+            Console.Write("B : ");
+            float b = float.Parse(Console.ReadLine());
+            Console.Write("C : ");
+            float c = float.Parse(Console.ReadLine());
+
+            float delta = (b * b) - (4 * a * c);
+            Console.WriteLine($"Valor do delta : {delta}");
+        }
+
+        public void ExercicieTwelve()
+        {
+            Console.Write("Preço do produto : ");
+            float price = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Preço promocional : {price * 0.95}");
+        }
+
+        public void ExercicieThirteen()
+        {
+            Console.Write("Salário atual R$ ");
+            float salary = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Salário ajustado R$ {salary * 1.15}");
+        }
+
+        public void ExercicieFourteen()
+        {
+            Console.Write("Quantidade de KM percorridos : ");
+            float distance = float.Parse(Console.ReadLine());
+            Console.Write("Quantidade de dias alugados: ");
+            int quantitieDay = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Valor para pagamento R$ {quantitieDay * 90 + distance * 0.20}");
+        }
+
+        public void ExercicieFifteen()
+        {
+            Console.Write("Número de dias trabalhados : ");
+            int quantitieDay = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Valor recebido R$ {25 * quantitieDay}");
+        }
+
+        public void ExercicieSixteen()
+        {
+            Console.Write("Quantidade de cigarros (dia): ");
+            int quantitieCigarettes = int.Parse(Console.ReadLine());
+            Console.Write("Anos que utilizou cigarro: ");
+            int quantitieYears = int.Parse(Console.ReadLine());
+            Console.WriteLine($"Dias perdidos {365 * quantitieYears * quantitieCigarettes * 1 / 6}");
         }
     }
 }
