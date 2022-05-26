@@ -46,5 +46,42 @@ namespace csharp_exercicies
             float secondScore = float.Parse(Console.ReadLine());
             Console.WriteLine($"A média entre {firstScore} e {secondScore} é igual a {(firstScore + secondScore) / 2}");
         }
+
+        public void ExercicieSix()
+        {
+            Console.Write("Digite um número: ");
+            int input = int.Parse(Console.ReadLine());
+            Console.WriteLine($"O antecessor de {input} é {input - 1}");
+            Console.WriteLine($"O sucessor de {input} é {input + 1}");
+        }
+
+        public void ExercicieSeven()
+        {
+            Console.Write("Digite um número: ");
+            float input = float.Parse(Console.ReadLine());
+            Console.WriteLine($"O dobro de {input} é {input * 2}");
+            Console.WriteLine($"A terça parte de {input} é {input / 3}");
+        }
+
+        public void ExercicieEight()
+        {
+            Console.Write("Digite uma distância em metros : ");
+            float input = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Quilômetro (KM): {input / 1000}        |      Decimetro (DM): {input * 10}");
+            Console.WriteLine($"Hectômetro (HM): {input / 100}         |      Centímetro (CM): {input * 100}");
+            Console.WriteLine($"Decametro (DAM): {input / 10}          |      Milímitro (MM): {input * 1000}");
+        }
+
+        public void ExercicieNine()
+        {
+            Console.Write("Carteira R$ ");
+            float input = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Carteira US$ {input * 3.45}");
+        }
+
+        public void ExercicieTen()
+        {
+
+        }
     }
 }

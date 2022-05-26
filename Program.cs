@@ -8,12 +8,15 @@ namespace csharp_exercicies
         {
             BasicSequence basicSequence = new BasicSequence();
 
-            /*basicSequence.ExercicieOne();
+            basicSequence.ExercicieOne();
             basicSequence.ExercicieTwo();
-            basicSequence.ExercicieThree();*/
-
-            //basicSequence.ExercicieFour();
+            basicSequence.ExercicieThree();
+            basicSequence.ExercicieFour();
             basicSequence.ExercicieFive();
+            basicSequence.ExercicieSix();
+            basicSequence.ExercicieSeven();
+            basicSequence.ExercicieEight();
+            basicSequence.ExercicieNine();
         }
     }
 }
