@@ -46,7 +46,6 @@ namespace csharp_exercicies
             float secondScore = float.Parse(Console.ReadLine());
             Console.WriteLine($"A média entre {firstScore} e {secondScore} é igual a {(firstScore + secondScore) / 2}");
         }
-
         public void ExercicieSix()
         {
             Console.Write("Digite um número: ");
